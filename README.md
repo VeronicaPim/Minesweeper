@@ -6,4 +6,3 @@ Works for the game when all files are saved to the same folder and compiled.
 
 In java, multiple classes with a driver/main file.
 To run this game, please download all files and put them in the same folder. Then run the main.
-
