@@ -1,5 +1,4 @@
 /*Veronica Pimenova
-  Period 6
   This program will represent the Square class, having useful methods such as printing
   the specific character on the Square at the moment or setting the square and its neighbors
   based on given information.*/
